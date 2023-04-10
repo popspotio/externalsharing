@@ -1,0 +1,54 @@
+{
+  "//name": "Source: Shopify product at time of purchase",
+  "name": "Workout Buddy Wall Station",
+
+  "//image": "Source: Shopify product image at time of purchase",
+  "image": "https://dezf0nymh02v7.cloudfront.net/1662085003300/image.png",
+
+  "//external_url": "Source: Shopify product url at time of purchase",
+  "external_url": "https://workoutbuddy.llc",
+
+  "properties": {
+    "category": "html",
+    
+    "creators": [
+        
+    ]
+  },
+
+  "attributes": [
+    {
+      "trait_type": "Pop",
+
+      "//value": "Source: Popspot app product configuration at time of purchase",
+      "value": "yes"
+    },
+    {
+      "trait_type": "Vendor",
+
+      "//value": "Source: Shopify store name at time of purchase",
+      "value": "Workout Buddy, LLC"
+    },
+    {
+      "trait_type": "Discount %",
+
+      "//value": "Source: Popspot Shopify app product pop discount percentage configuration at time of purchase",
+      "value": 12
+    },
+    {
+      "trait_type": "Commission %",
+
+      "//value": "Source: Popspot Shopify app product pop commission percentage configuration at time of purchase",
+      "value": 9
+    },
+    {
+      "trait_type": "Expires",
+
+      "//value": "Source: Popspot Shopify app product pop expiration configuration at time of purchase",
+      "value": "12/31/2022"
+    }
+  ],
+
+  "//description": "Source: Shopify product description at time of purchase",
+  "description": "High-tech all-in-one personal coach and work-out solution for AI-driven fitness results."
+}
