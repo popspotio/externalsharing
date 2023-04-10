@@ -12,7 +12,7 @@
     "category": "html",
     
     "creators": [
-        
+
     ]
   },
 
@@ -32,19 +32,19 @@
     {
       "trait_type": "Discount %",
 
-      "//value": "Source: Popspot Shopify app product pop discount percentage configuration at time of purchase",
+      "//value": "Source: Popspot Shopify app product pop discount percentage configuration by merchant. This attribute is configured by the merchant in the PopSpot UI when setting up a Pop for a particular propduct.",
       "value": 12
     },
     {
       "trait_type": "Commission %",
 
-      "//value": "Source: Popspot Shopify app product pop commission percentage configuration at time of purchase",
+      "//value": "Source: Popspot Shopify app product pop commission percentage.This attribute is configured by the merchant in the PopSpot UI when setting up a Pop for a particular propduct.",
       "value": 9
     },
     {
       "trait_type": "Expires",
 
-      "//value": "Source: Popspot Shopify app product pop expiration configuration at time of purchase",
+      "//value": "Source: Popspot Shopify app product pop expiration configuration. This attribute is configured by the merchant in the PopSpot UI when setting up a Pop for a particular propduct.",
       "value": "12/31/2022"
     }
   ],
